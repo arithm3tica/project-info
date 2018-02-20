@@ -38,7 +38,7 @@ Similar distributed computing projects have existed such as Folding at Home, Sea
 
 3. Watch you and your peers contribute to a good cause!
 
-![arithmetica](https://raw.githubusercontent.com/arithm3tica/landing-page/master/images/arithmetica.gif)
+    ![arithmetica](https://raw.githubusercontent.com/arithm3tica/landing-page/master/images/arithmetica.gif)
 
 
 
