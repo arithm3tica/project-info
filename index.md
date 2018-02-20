@@ -28,13 +28,13 @@ Similar distributed computing projects have existed such as Folding at Home, Sea
 
 2. Select a problem to contribute your computer's resources to:
 
-***Click Contribute***
+  ***Click Contribute***
 
-![arithmetica_contribue_1](https://raw.githubusercontent.com/arithm3tica/landing-page/master/images/arithmetica_contribute_1.jpeg)
+  ![arithmetica_contribue_1](https://raw.githubusercontent.com/arithm3tica/landing-page/master/images/arithmetica_contribute_1.jpeg)
 
-***Select Problem***
+  ***Select Problem***
 
-![arithmetica_contribue_2](https://raw.githubusercontent.com/arithm3tica/landing-page/master/images/arithmetica_contribute_2.jpeg)
+  ![arithmetica_contribue_2](https://raw.githubusercontent.com/arithm3tica/landing-page/master/images/arithmetica_contribute_2.jpeg)
 
 3. Watch you and your peers contribute to a good cause!
 
