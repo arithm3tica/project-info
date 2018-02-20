@@ -16,9 +16,9 @@ Similar distributed computing projects have existed such as Folding at Home, Sea
 
 ### Prerequisites
 
-***Desktop:*** This will work with any browser MetaMask enabled browser (Brave, Chrome, Firefox)
+***Desktop & Mobile Browsers:*** Will work with: Brave, Chrome, Firefox
 
-***Mobile:*** Firefox Mobile with Metamask extension
+> Note: Access to an Ethereum Node, or MetaMask is preferred, but not required.
 
 ### How to Use It
 
