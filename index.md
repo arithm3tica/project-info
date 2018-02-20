@@ -2,8 +2,6 @@
 
 [Arithmetica](https://arithm3tica.github.io/arithmetica/#) is a platform for computational math problems and democratizes the computation and data availability.
 
-![arithmetica](https://raw.githubusercontent.com/arithm3tica/arithmetica/develop/arithmetica.gif)
-
 ### Inspiration
 In 1900, David Hilbert created a list of 23 mathematical problems he deemed the most important to mathematical advancement. After more than 100 years 11 of those problems remain unsolved. High quality mathematical research dating back to the 1600s is still restricted in a way that allows only the wealthy and university researchers access. Mathematicians rely on computation data to assist in solving mathematical proofs. From the data mathematicians run queries and gain insight into the underlying principles that govern mathematics.
 
@@ -26,4 +24,17 @@ Similar distributed computing projects have existed such as Folding at Home, Sea
 
 ### How to Use It
 
-Navigate to: [http://arithmetica.network](http://arithmetica.network "Arithmetica")
+1. Navigate to: [http://arithmetica.network](http://arithmetica.network "Arithmetica")
+
+2. Select a problem to contribute your computer's resources to:
+
+![arithmetica_contribue_1](https://raw.githubusercontent.com/arithm3tica/landing_page/master/images/arithmetica_contribute_1.jpeg)
+
+![arithmetica_contribue_2](https://raw.githubusercontent.com/arithm3tica/landing_page/master/images/arithmetica_contribute_1.jpeg)
+
+3. Watch you and your peers contribute to a good cause!
+
+![arithmetica](https://raw.githubusercontent.com/arithm3tica/arithmetica/master/images/arithmetica.gif)
+
+
+
