@@ -24,9 +24,9 @@ Similar distributed computing projects have existed such as Folding at Home, Sea
 
 ### How to Use It
 
-1. Navigate to: [http://arithmetica.network](http://arithmetica.network "Arithmetica")
+ 1. Navigate to: [http://arithmetica.network](http://arithmetica.network "Arithmetica")
 
-2. Select a problem to contribute your computer's resources to:
+ 2. Select a problem to contribute your computer's resources to:
 
   ***Click Contribute***
 
@@ -36,7 +36,7 @@ Similar distributed computing projects have existed such as Folding at Home, Sea
 
   ![arithmetica_contribue_2](https://raw.githubusercontent.com/arithm3tica/landing-page/master/images/arithmetica_contribute_2.jpeg)
 
-3. Watch you and your peers contribute to a good cause!
+ 3. Watch you and your peers contribute to a good cause!
 
 ![arithmetica](https://raw.githubusercontent.com/arithm3tica/landing-page/master/images/arithmetica.gif)
 
