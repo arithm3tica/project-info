@@ -1,2 +1,3 @@
 title: Arithmetica
-theme: jekyll-theme-slate
+description:  A platform for computational math problems that democratizes computation and data availability.
+theme: jekyll-theme-minimal
