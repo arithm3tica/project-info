@@ -14,7 +14,7 @@ Similar distributed computing projects have existed such as Folding at Home, Sea
 
 [Arithmetica](https://arithm3tica.github.io/arithmetica/#) accomplishes that goal using Solidity smart contracts to track the validity of the code used to evaluate and assert the computation. The volunteers connect together in a peer to peer network facilitated by the IPFS Pubsub protocol. The volunteers are seamlessly connected to the network without the need to download any tools. The volunteer goes to the [Arithmetica](https://arithm3tica.github.io/arithmetica/#) website using a Brave Browser with Metamask enabled and selects a problem they want to help solve. The volunteer's idle processing power will immediately be put to work helping an altruistic cause.
 
-## Donate your computer's spare computational power
+## How to Contribute
 
 ### Prerequisites
 
