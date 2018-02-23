@@ -1,5 +1,6 @@
 title: Arithmetica
 description: A collaborative platform for computational math that democratizes data availability and computation.
+google_analytics:
 theme: jekyll-theme-slate
 github:
   repository_url: https://github.com/arithm3tica/arithmetica
