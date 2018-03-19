@@ -3,7 +3,7 @@
 ## Inspiration
 In 1900, David Hilbert created a list of 23 mathematical problems he deemed the most important to mathematical advancement. After more than 100 years 11 of those problems remain unsolved. High quality mathematical research dating back to the 1600s is still restricted in a way that allows only the wealthy and university researchers access. Mathematicians rely on computation data to assist in solving mathematical proofs. From the data, mathematicians run queries and gain insight into the underlying principles that govern mathematics.
 
-Mathematicians have long suffered from the lack of access to and verifiability of computational mathematics data. Access to data is often siloed, centrally located, restricted, and never resumable. Free, decentralized access to this data and the generation of this data is an important evolution and will help mathemticians prove more theorems
+Mathematicians have long suffered from the lack of access to and verifiability of computational mathematics data. Access to data is often siloed, centrally located, restricted, and never resumable. Free, decentralized access to this data and the generation of this data is an important evolution and will help mathematicians prove more theorems
 
 ## What it does
 [Arithmetica](https://arithm3tica.github.io/arithmetica) is a reusable platform to democratize the computation and data availability of computational math problems. Mathematicians are able to submit problems to be computed in a decentralized way by voluntary participants. The resulting data is not access restricted; it is shared freely with the public.
